@@ -1,5 +1,7 @@
 # Insidden FTP Connector
 
+<img width="1897" height="355" alt="LOGO_2024_SMALL" src="https://github.com/user-attachments/assets/cd51341c-aeb3-4765-a1de-3c64fba1e983" />
+
 ## Overview
 Insidden FTP Connector is a lightweight, standalone Windows GUI utility written in C# (WinForms). It is specifically designed to provide seamless, secure access to the `kt.insidden.com` FTP server directly through Windows File Explorer. 
 
